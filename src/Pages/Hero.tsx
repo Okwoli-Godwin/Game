@@ -1,7 +1,9 @@
 import { NavLink } from "react-router-dom"
 import sound from "../assets/sound.mp3"
 
+
 const Hero = () => {
+
   return (
       <div>
           <div className='w-full h-screen bg-hero flex justify-center items-center'>

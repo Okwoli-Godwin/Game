@@ -9,7 +9,7 @@ const Videobackground = () => {
               autoPlay={true}
               // muted
               playsInline
-              loop={true}>
+              >
             </video>
     </div>
     </div>
