@@ -2,7 +2,9 @@
 
 const Gamezone = () => {
   return (
-    <div>Gamezone</div>
+      <div className="w-full h-screen bg-hero flex justify-center items-center">
+          
+    </div>
   )
 }
 
